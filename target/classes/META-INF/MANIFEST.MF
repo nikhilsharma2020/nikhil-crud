@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.1
+Implementation-Title: EMS
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.code.spring
+Implementation-URL: https://spring.io/projects/spring-boot/EMS
+Created-By: Maven Integration for Eclipse
+
